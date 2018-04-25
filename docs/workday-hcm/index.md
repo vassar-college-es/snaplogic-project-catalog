@@ -1,8 +1,8 @@
-# snaplogic-workday-hcm
+# Snaplogic Workday HCM/Payroll
 Pipelines related to Workday HCM/Payroll
 
 - Workday - Hire Non-Student Into Banner
-    - verison: v1.9.0
+    - version: v1.9.0
     - author: romanovsky@vassar.edu
     - launch-type: trigger
 
@@ -11,7 +11,7 @@ Pipelines related to Workday HCM/Payroll
     - author: romanovsky@vassar.edu
 
 - WD - Update VASR Email (WD)
-    - verison: v.1.2.0    
+    - version: v.1.2.0    
 
 - WD - Additional Jobs
     - v1.3.3
