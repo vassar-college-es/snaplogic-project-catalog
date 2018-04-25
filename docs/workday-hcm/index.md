@@ -1,45 +1,24 @@
-# Snaplogic Workday Finance
-Pipelines related to Workday Finance
+# Snaplogic Workday HCM/Payroll
+Pipelines related to Workday HCM/Payroll
 
-- WD - Banner.Gift to Workday.AHBT.Gift
-    - version: v1.1.6
+- Workday - Hire Non-Student Into Banner
+    - version: v1.9.0
     - author: romanovsky@vassar.edu
-    - launch-type: scheduled [11:15pm daily]
-    - SME: Accounting Services
-    - desc: This integration pulls Gift Transactions from Banner daily, and builds a Workday request for
-      the 'Submit Ad Hoc Bank Transaction' service.
+    - launch-type: trigger
 
-- WD - Banner.Gift to Workday.Donor
-    - version: v1.1.0
+- Workday - Non-Student Demo Into Banner
+    - version: v.1.2.4
     - author: romanovsky@vassar.edu
-    - launch-type: manual
+    - launch-type: scheduled []
 
-- WD - Banner.Grant to Workday.AHBT.Grant
-    - v.1.1.0
+- WD - Update VASR Email (WD)
+    - version: v.1.2.0    
 
-- WD - Banner.Grant to Workday.GrantCustomerInvoice
-    - v.1.0.0
+- WD - Additional Jobs
+    - v1.3.3
 
-- WD - Sierra to Supplier Invoice Request
-    - v.1.0.0
+- WD - GL to Banner Finance
+    - v1.0.2
 
-- WD - Banner.StuAcct to Workday.AHBT
-    - v.1.0.0
-
-- WD - JPM.stuPCard-Workday.SubmitAcctJournal
-    - v.1.0.0
-
-- WD - TMA.charges-Workday.SubmitAcctJournal
-    - v.1.1.2
-
-- WD - Banner.StudentCharges to Workday.AcccountJournals
-    - v.1.0.6
-
-- WD - JPM.PCard-Workday.SubmitAcctJournal
-    - v.1.1.0
-
-- WD - Unpost-Acct-Journals
-    - v.1.0.0
-
-- WD - FixDate-JPM.PCard-Workday.SubmitAcctJournal
-    - v.1.0.0
+- WD - Academic Appointments to FacBios
+    - v1.2.4
