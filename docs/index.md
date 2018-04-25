@@ -1,16 +1,18 @@
 ## Vassar College - Snaplogic Production Integration System
   
-   
-### [Student](student/student)
   
-### [Student Employment](student_worker/student_worker)
+### [Student](student)
   
-### [Alumni](alumni/alumni)
+### [Student Employment](student_worker)
   
-### [IT](it/it)
+### [Student Financial Services](student_finaid)
   
-### [Employee](employee/employee)
+### [Alumni](alumni)
   
 ### [Workday HCM](workday-hcm)
   
+### [Employee](employee)
+  
 ### [Workday Finance](workday-fin)
+  
+### [IT](it)
