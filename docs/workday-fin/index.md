@@ -31,7 +31,7 @@ Pipelines related to Workday Finance
     - v.1.0.0
 
 - WD - TMA.charges-Workday.SubmitAcctJournal
-    - v.1.1.2
+    - v.1.1.3
 
 - WD - Banner.StudentCharges to Workday.AcccountJournals
     - v.1.0.6
