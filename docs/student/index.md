@@ -12,7 +12,7 @@
     - output= csv file transfer to vendor's s3
     - task= scheduled Monday's at 5am
     - vendor support= 	support@joinhandshake.com
-    - version: v1.3.0
+    - version: v1.4.0
 
 - Banner-Maxient
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/student?vendor=maxient
