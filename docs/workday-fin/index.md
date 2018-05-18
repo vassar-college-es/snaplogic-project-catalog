@@ -2,7 +2,7 @@
 Pipelines related to Workday Finance
 
 - WD - Banner.Gift to Workday.AHBT.Gift
-    - version: v1.1.6
+    - version: v1.2.0
     - author: romanovsky@vassar.edu
     - launch-type: scheduled [11:15pm daily]
     - SME: Accounting Services
