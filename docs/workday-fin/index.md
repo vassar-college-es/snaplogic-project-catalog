@@ -37,7 +37,12 @@ Pipelines related to Workday Finance
     - v.1.0.6
 
 - WD - JPM.PCard-Workday.SubmitAcctJournal
-    - v.1.1.0
+    - version: v1.2.0
+    - author: mcgowan@vassar.edu
+    - launch-type: manual
+    - SME: Procurement
+    - desc: This integration loads VSA/Vehichle/Library Pcard transactions as journal entries into Workday from a 
+            JPM PaymentNet mapper file
 
 - WD - Unpost-Acct-Journals
     - v.1.0.0
