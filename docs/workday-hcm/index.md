@@ -49,3 +49,10 @@ Pipelines related to Workday HCM/Payroll
     - SME: Dean Of Faculty
     - desc: This integration uses Workday RaaS to pull academic appointments and maintain the Oracle table used for the Communication / Website integration
     for Faculty Staff Listings on Academic Dept sites.  Secondary processing is done through Hyperion and drop server to move data through workflow.
+
+- WD - Payroll Result (Fidelity) to Worker.Email
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: triggered
+    - SME: HCM/Beneftis Office
+    - desc: This integration will received payload from Workday containing Benefit enrollee data.  It will merge this will Banner and produce a simple output file for remittance/audit tasks.
