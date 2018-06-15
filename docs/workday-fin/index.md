@@ -53,3 +53,11 @@ Pipelines related to Workday Finance
 
 - WD - FixDate-JPM.PCard-Workday.SubmitAcctJournal
     - v.1.0.0
+
+- WD - Banner.Student-Workday.Suppliers.create
+    - v.1.0.0
+    - author: domcneil@vassar.edu
+
+- WD - Banner.Student-Workday.Suppliers.update
+    - v.1.0.0
+    - author: domcneil@vassar.edu
