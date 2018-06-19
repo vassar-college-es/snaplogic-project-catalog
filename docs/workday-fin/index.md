@@ -41,7 +41,7 @@ Pipelines related to Workday Finance
     - desc: This integration pulls Student Charges from DAIES.gurfeed and maps/transforms for a Workday Submit_Journal_Entry request.
  
 - WD - JPM.PCard-Workday.SubmitAcctJournal
-    - version: v1.2.0
+    - version: v1.3.0
     - author: mcgowan@vassar.edu
     - launch-type: manual
     - SME: Procurement
