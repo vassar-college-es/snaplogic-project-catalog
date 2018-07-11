@@ -55,7 +55,7 @@ Pipelines related to Workday Finance
     - v.1.0.0
 
 - WD - Banner.Student-Workday.Suppliers.create
-    - v.1.0.0
+    - v.1.0.1
     - author: domcneil@vassar.edu
 
 - WD - Banner.Student-Workday.Suppliers.update
