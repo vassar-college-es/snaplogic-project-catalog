@@ -68,3 +68,9 @@
     - task= 1st, 8th, 15th, 22nd and 29th at 8am
     - vendor support= support@acalog.com
     - version: v1.0.0
+
+- Banner.TerraDotta
+    - Oracle Execute to select student/employee data from Banner
+    - output=csv file written to TerraDotta server for import
+    - task= everyday at 2:30am
+    - version: v1.0.0
