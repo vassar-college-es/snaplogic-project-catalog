@@ -55,9 +55,15 @@ Pipelines related to Workday Finance
     - v.1.0.0
 
 - WD - Banner.Student-Workday.Suppliers.create
-    - v.1.0.1
+    - v.1.0.2
     - author: domcneil@vassar.edu
+    - launch-type: scheduled, hourly
+    - SME: Accounts Payable
+    - desc: This integration creates students in Banner as suppliers in Workday
 
 - WD - Banner.Student-Workday.Suppliers.update
     - v.1.0.0
     - author: domcneil@vassar.edu
+    - launch-type: scheduled, hourly
+    - SME: Accounts Payable
+    - desc: This integration updates contact information for student suppliers in Workday
