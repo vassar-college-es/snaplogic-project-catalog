@@ -6,4 +6,4 @@ pipelines associated with Alumni data and applications
     - output= csv file transfer to vendor's sftp site
     - task= scheduled Daily - 3AM
     - vendor support= support@evertrue.com 
-    - v1.2.0
+    - v1.3.0
