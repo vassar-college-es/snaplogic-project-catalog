@@ -74,3 +74,10 @@
     - output=csv file written to TerraDotta server for import
     - task= everyday at 2:30am
     - version: v1.0.0
+
+- PowerFAIDs-Banner
+    - Generic JDBC - Select to select student financial aid data from PowerFAIDs mySQL table
+    - output=data inserted into summary Oracle table 
+    - Oracle SP= DAIES.UPDATE_JOBX_FA_SUMMARY
+    - task= daily 6:30pm
+    - version: v1.0.1
