@@ -18,3 +18,8 @@ snapLogic integrations related to PowerFAIDS
     - version: v.1.0.0
     - desc: This will load Anticipated Aid files from PowerFAIDS into Banner Memos (TBRMEMO) for student bills.
     - author: mcgowan@vassar.edu
+
+- PowerFAIDS-Banner.Disbursements
+    - version: v.1.0.0
+    - desc: This will load Disbursement files from PowerFAIDS into Banner (TBRACCD) for student bills.
+    - author: mcgowan@vassar.edu
