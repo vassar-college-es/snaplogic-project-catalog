@@ -22,7 +22,7 @@
     - vendor support= support@maxient.com
     - version: v1.0.4
 
-- Banner-MBS.Renters current version v1.0.1
+- Banner-MBS.Renters
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/student
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/employee
     - Oracle SP= DAIES.get_student_dataset; DAIES.get_employee_dataset
@@ -31,13 +31,13 @@
     - vendor support= AGray@mbsbooks.com
     - version: v1.0.1
 
-- Banner-MBS.Courses current version v1.1.1
+- Banner-MBS.Courses
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/course
     - Oracle SP= DAIES.get_course_dataset
     - output= 1 txt file to MBS Vendor sftp server.
     - task= (pipeline) scheduled Daily at 7AM;
     - vendor support= AGray@mbsbooks.com
-    - version: v1.1.1
+    - version: v1.1.2
 
 - Banner-NelNet.StudentChoice
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/student/account/refund
