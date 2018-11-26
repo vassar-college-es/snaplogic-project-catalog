@@ -20,7 +20,7 @@
     - output= 2 txt files to drop server. Data may eventually go directly to vendor sftp if "Constant" Snap output could be 1 binary document for "File Writer" Snap
     - task= (pipeline) scheduled Daily at 11PM; (sftp) scheduled daily at 10AM
     - vendor support= support@maxient.com
-    - version: v1.0.3
+    - version: v1.0.4
 
 - Banner-MBS.Renters current version v1.0.1
     - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/student
