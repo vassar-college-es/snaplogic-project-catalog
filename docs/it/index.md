@@ -57,3 +57,9 @@
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6:30AM
     - v1.1.0
+
+- Banner-DeliveredReports.StatusChangeReport current version v1.0.0
+    - Oracle Select
+    - output= email, MS Excel spreadsheet
+    - task= (pipeline) scheduled daily, 6:30AM
+    - v1.0.0
