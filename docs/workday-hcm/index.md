@@ -43,7 +43,7 @@ Pipelines related to Workday HCM/Payroll
     - desc: DECOMMISSIONED. This was temporarily used for syncing Payroll Workday and Banner Finance
 
 - WD - Academic Appointments to FacBios
-    - v1.2.5
+    - v1.2.6
     - author: romanovsky@vassar.edu
     - launch-type: scheduled [daily 6:30pm EST]
     - SME: Dean Of Faculty
