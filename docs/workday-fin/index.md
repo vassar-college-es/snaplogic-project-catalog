@@ -4,7 +4,7 @@ Pipelines related to Workday Finance
 - WD - Banner.Gift to Workday.AHBT.Gift
     - version: v1.2.0
     - author: romanovsky@vassar.edu
-    - launch-type: scheduled [11:15pm daily]
+    - launch-type: scheduled [11:45pm daily]
     - SME: Accounting Services
     - desc: This integration pulls Gift Transactions from Banner daily, and builds a Workday request for
       the 'Submit Ad Hoc Bank Transaction' service.
@@ -36,7 +36,7 @@ Pipelines related to Workday Finance
 - WD - Banner.StudentCharges to Workday.AcccountJournals
     - v.1.0.6
     - author: romanovsky@vassar.edu
-    - launch-type: schedule [11:15pm daily]
+    - launch-type: schedule [11:45pm daily]
     - SME: Accounting Services
     - desc: This integration pulls Student Charges from DAIES.gurfeed and maps/transforms for a Workday Submit_Journal_Entry request.
  
