@@ -2,7 +2,7 @@
 Pipelines related to Workday, Banner, Student Employment
 
 - Workday - Hire Into Workday
-    - version: v1.9.3
+    - version: v1.9.5
     - author: romanovsky@vassar.edu. domcneil@vassar.edu
     - launch-type: schedule [daily 4:30am EST; 5:00am EST]
     - SME: Student Employment / Human Resources
