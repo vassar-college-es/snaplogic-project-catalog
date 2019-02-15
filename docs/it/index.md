@@ -63,3 +63,15 @@
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6:30AM
     - v1.0.0
+    
+- Banner-EMC_Warehouse-Fall
+    - Captures data for a fall semester in data warehouse
+    - Oracle Select
+    - task= (pipeline) scheduled weekly April - December
+    - v1.0.0
+    
+- Banner-EMC_Warehouse-Spring
+    - Captures data for a spring semester in data warehouse
+    - Oracle Select
+    - task= (pipeline) scheduled weekly November - Jun
+    - v1.0.0
