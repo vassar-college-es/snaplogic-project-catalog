@@ -75,3 +75,9 @@
     - Oracle Select
     - task= (pipeline) scheduled weekly November - Jun
     - v1.0.0
+
+- Workday.AuditLog-Splunk.WorkdayIndex
+    - Workday Production Audit Data to Splunk for ISO
+    - Using WD REST API and HTTP Event Collector service from Splunk
+    - task= (pipeline) triggered via HTTP req from workday-splunk.py on dataintegration02
+    - v1.0.1
