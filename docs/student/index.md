@@ -52,7 +52,7 @@
     - output= 1 csv attached email to stuaccounts@vassar.edu containing refund response data
     - task= scheduled daily 5am
     - vendor support= help@nelnet.net
-    - version: v1.0.1
+    - version: v1.0.2
 
 - NelNet.ReturnFund-Banner.Email
     - SFTP File Reader to capture StudentChoice Response XML
