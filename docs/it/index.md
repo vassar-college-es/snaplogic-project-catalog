@@ -1,12 +1,11 @@
 # Snaplogic IT
 
-- Banner-Parlance current version v1.0.1
-    - REST GET endpoint: https://appconnect.vassar.edu/api/vassarapi/v1/employee
-    - Oracle SP= DAIES.get_employee_dataset
+- Workday-Parlance.Operator_Assist
+    - REST GET to Workday Report Parlance.Operator_Assist
     - output= 1 txt file sftp to Parlance server.
     - task= (pipeline, sftp) scheduled Daily at 6PM
     - vendor support=
-    - v1.0.1
+    - v1.1.0
 
 - Banner-PerceptiveContent current version v1.1.0
     - Oracle Select, Update on Banner, Perceptive Content DB
