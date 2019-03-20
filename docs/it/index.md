@@ -80,3 +80,9 @@
     - Using Workday REST API and HTTP Event Collector service from Splunk
     - task= (pipeline) triggered via HTTP req from workday-splunk.py on dataintegration02
     - v1.0.1
+
+- Workday-DeliveredReports.NewHireEmail current version v1.0.0
+    - REST GET to Workday Report 'New Hire Summary w/ Email'
+    - output= email, MS Excel spreadsheet
+    - task= (pipeline) scheduled monthly, 1st of every month at 6:30AM
+    - v1.0.0
