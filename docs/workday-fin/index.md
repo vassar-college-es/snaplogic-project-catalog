@@ -34,8 +34,8 @@ Pipelines related to Workday Finance
     - v.1.1.3
 
 - WD - Banner.StudentCharges to Workday.AcccountJournals
-    - v.1.0.6
-    - author: romanovsky@vassar.edu
+    - v.1.1.0
+    - author: romanovsky@vassar.edu, khahn@vassar.edu
     - launch-type: schedule [11:45pm daily]
     - SME: Accounting Services
     - desc: This integration pulls Student Charges from DAIES.gurfeed and maps/transforms for a Workday Submit_Journal_Entry request.
