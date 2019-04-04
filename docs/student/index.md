@@ -81,3 +81,34 @@
     - Oracle SP= DAIES.UPDATE_JOBX_FA_SUMMARY
     - task= daily 6:30pm
     - version: v1.0.1
+
+- Banner-AIM-ClassList
+    - Oracle Execute to identify active classes for current and future semesters
+    - output=csv file written to AIM server for import
+    - task= daily 2am
+    - vendor support= sales@accessiblelearning.com
+    - version: v1.0.0
+
+- Banner-AIM-StudentGPAs
+    - SFTP File Reader to identify active students who require accomodations
+    - Oracle Execute to compare active student list with Banner GPA data
+    - output=csv file written to AIM server for import
+    - task= daily 2am
+    - vendor support= sales@accessiblelearning.com
+    - version: v1.0.0
+
+- Banner-AIM-StudentCourses
+    - SFTP File Reader to identify active students who require accomodations
+    - Oracle Execute to compare active student list with student course Banner data
+    - output=csv file written to AIM server for import
+    - task= daily 2am
+    - vendor support= sales@accessiblelearning.com
+    - version: v1.0.0
+
+- Banner-AIM-StudentInfo
+    - SFTP File Reader to identify active students who require accomodations
+    - Oracle Execute to compare active student list with student Banner data
+    - output=csv file written to AIM server for import
+    - task= daily 2am
+    - vendor support= sales@accessiblelearning.com
+    - version: v1.0.0
