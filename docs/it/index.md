@@ -98,3 +98,9 @@
     - output= .dis file to MailMan
     - task= (pipeline) scheduled dailiy 6:00AM
     - v1.0.0
+
+- Banner.Audit-Splunk.INDEX
+    - Oracle EXECUTE on sql to pull the audit data from DBMS table
+    - output= Splunk data
+    - task= (pipeline) scheduled hourly
+    - v1.0.0
