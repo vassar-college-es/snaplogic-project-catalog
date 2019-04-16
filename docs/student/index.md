@@ -111,4 +111,4 @@
     - output=csv file written to AIM server for import
     - task= daily 2am
     - vendor support= sales@accessiblelearning.com
-    - version: v1.0.0
+    - version: v1.0.1
