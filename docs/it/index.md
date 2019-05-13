@@ -104,3 +104,9 @@
     - output= Splunk data
     - task= (pipeline) scheduled hourly
     - v1.0.0
+
+- Banner-DeliveredReports.OverEnrolledCLS v1.0.0
+    - Oracle Select
+    - output= email, MS Excel spreadsheet
+    - task= (pipeline) scheduled daily, 6:00 AM
+    - v1.0.0
