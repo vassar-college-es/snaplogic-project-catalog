@@ -112,3 +112,9 @@
     - task= daily 2am
     - vendor support= sales@accessiblelearning.com
     - version: v1.0.1
+
+- Slate-Dropbox.UserFiles
+    - Receives JSON from Slate, I20 student data, for file creation
+    - output=csv file written DropBox (snapdorpboxservice)
+    - triggered via HTTP req from Slate Reporting
+    - version: v1.0.0
