@@ -118,3 +118,9 @@
     - output=csv file written DropBox (snapdorpboxservice)
     - triggered via HTTP req from Slate Reporting
     - version: v1.0.0
+
+- Slate.sFTP-Dropbox.UserFiles
+    - pulls PDF from Slate sFTP, I20 student data, for file creation
+    - output=pdf file written DropBox (snapdorpboxservice)
+    - scheduled.  Running Tues and Thurs 1pm
+    - version: v1.0.0
