@@ -56,3 +56,10 @@ Pipelines related to Workday HCM/Payroll
     - launch-type: triggered
     - SME: HCM/Beneftis Office
     - desc: This integration will received payload from Workday containing Benefit enrollee data.  It will merge this will Banner and produce a simple output file for remittance/audit tasks.
+
+- WD - Benefit Eligible to HY.TeleDoc
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: scheduled
+    - SME: HCM/Beneftis Office
+    - desc: This integration will run a TeleDoc RaaS developed by Nick S in HR to transform for HT/TeleDoc census file over sFTP
