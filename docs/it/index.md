@@ -110,3 +110,15 @@
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6:00 AM
     - v1.0.1
+	
+- Workday.Emeriti-Communications
+    - Rest GET of Workday Custom Report: Emeriti_for_Integration_with_Communications
+    - output= csv to drop/cmsbios
+    - task= (pipeline) scheduled Fridays, 6:00 PM
+    - v1.0.0
+	
+- Workday.WorkerEducation-Communications
+    - Rest GET of Workday Custom Report: Worker_Education_for_Communications
+    - output= csv to drop/cmsbios
+    - task= (pipeline) scheduled Fridays, 6:00 PM
+    - v1.0.0
