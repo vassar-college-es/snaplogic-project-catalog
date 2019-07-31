@@ -57,11 +57,11 @@
     - task= (pipeline) scheduled daily, 6:30AM
     - v1.1.0
 
-- Banner-DeliveredReports.StatusChangeReport current version v1.0.0
+- Banner-DeliveredReports.StatusChangeReport current version v1.1.0
     - Oracle Select
     - output= email, MS Excel spreadsheet
-    - task= (pipeline) scheduled daily, 6:30AM
-    - v1.0.0
+    - task= (pipeline) scheduled daily, 6PM
+    - v1.1.0
     
 - Banner-EMC_Warehouse-Fall
     - Captures data for a fall semester in data warehouse
