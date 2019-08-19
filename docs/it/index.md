@@ -122,3 +122,13 @@
     - output= csv to drop/cmsbios
     - task= (pipeline) scheduled Fridays, 6:00 PM
     - v1.0.0
+    - v1.0.0
+	
+- Workday|Banner-Directory
+    - Rest GET of Workday Custom Report: Directory Data-Employees
+    - Rest GET of Workday Custom Report: Directory Data-Contingent Workers    
+    - Rest GET of Workday Custom Report: Emeriti Distribution List for Integration
+    - Oracle procedure InsertVCDIRStu
+    - output= write to Oracle table DAIES.VCDIR
+    - task= (pipeline) scheduled Every day, every hour from 8:00AM to 5:00PM
+    - v1.0.0
