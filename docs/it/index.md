@@ -131,4 +131,4 @@
     - Oracle procedure InsertVCDIRStu
     - output= write to Oracle table DAIES.VCDIR
     - task= (pipeline) scheduled Every day, every hour from 8:00AM to 5:00PM
-    - v1.0.0
+    - v1.0.1
