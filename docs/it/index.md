@@ -132,3 +132,10 @@
     - output= write to Oracle table DAIES.VCDIR
     - task= (pipeline) scheduled Every day, every hour from 8:00AM to 5:00PM
     - v1.0.1
+
+- Banner|Workday-Adobe-DeliveredReport
+    - Rest GET of Workday Custum Report: Emeriti Distribution List for Integration
+    - Oracle Execute
+    - output= csv
+    - task= (pipeline) runs ad hoc
+    - v1.0.0
