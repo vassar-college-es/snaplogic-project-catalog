@@ -91,7 +91,7 @@
     - REST GET to Workday Report 'All Active Employees Distribution List Source for Integration'
     - output= .dis file to MailMan
     - task= (pipeline) scheduled dailiy 6:00AM
-    - v1.4.0
+    - v1.5.0
 
 - Workday-Mailman.Emeriti_Email_Distribution_List
     - REST GET to Workday Report 'Emeriti Distribution List for Integration'
