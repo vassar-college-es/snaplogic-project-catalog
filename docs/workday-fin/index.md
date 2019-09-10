@@ -34,7 +34,7 @@ Pipelines related to Workday Finance
     - v.1.1.3
 
 - WD - Banner.StudentCharges to Workday.AcccountJournals
-    - v.1.1.2
+    - v.1.1.3
     - author: romanovsky@vassar.edu, khahn@vassar.edu
     - launch-type: schedule [11:45pm daily]
     - SME: Accounting Services
