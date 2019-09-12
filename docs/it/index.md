@@ -109,7 +109,7 @@
     - Oracle Select
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6:00 AM
-    - v1.0.1
+    - v2.0.0
 	
 - Workday.Emeriti-Communications
     - Rest GET of Workday Custom Report: Emeriti_for_Integration_with_Communications
