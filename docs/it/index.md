@@ -139,3 +139,9 @@
     - output= csv
     - task= (pipeline) runs ad hoc
     - v1.0.0
+
+- Banner.PostOfficeData-PostOffice.SharedFolder
+    - Oracle Select
+    - output= CSV,  winfile02 write
+    - task= (pipeline) scheduled daily, 11:30PM
+    - v1.0.0
