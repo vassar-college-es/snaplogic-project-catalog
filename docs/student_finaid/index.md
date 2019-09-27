@@ -21,6 +21,6 @@ snapLogic integrations related to PowerFAIDS
     - author: mcgowan@vassar.edu
 
 - PowerFAIDS-Banner.Disbursements
-    - version: v.1.0.0
+    - version: v.1.1.0
     - desc: This will load Disbursement files from PowerFAIDS into Banner (TBRACCD) for student bills.
     - author: mcgowan@vassar.edu
