@@ -144,4 +144,4 @@
     - Oracle Select
     - output= CSV,  winfile02 write
     - task= (pipeline) scheduled daily, 11:30PM
-    - v1.0.0
+    - v1.1.0
