@@ -79,7 +79,7 @@
     - Workday Production Audit Data to Splunk for ISO
     - Using Workday REST API and HTTP Event Collector service from Splunk
     - task= (pipeline) triggered via HTTP req from workday-splunk.py on dataintegration02
-    - v1.0.1
+    - v1.0.2
 
 - Workday-DeliveredReports.NewHireEmail
     - REST GET to Workday Report 'New Hire Summary w/ Email'
@@ -103,7 +103,7 @@
     - Oracle EXECUTE on sql to pull the audit data from DBMS table
     - output= Splunk data
     - task= (pipeline) scheduled hourly
-    - v1.0.0
+    - v1.0.1
 
 - Banner-DeliveredReports.OverEnrolledCLS
     - Oracle Select
