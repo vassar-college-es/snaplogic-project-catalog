@@ -6,7 +6,7 @@ snapLogic integrations related to PowerFAIDS
     - author: mcgowan@vassar.edu
     
 - Banner-PowerFAIDS
-    - version: v.1.0.2
+    - version: v.1.0.3
     - author: mcgowan@vassar.edu
     - desc: This will export students from Banner to load into PowerFAIDS
 
