@@ -2,7 +2,7 @@
 Pipelines related to Workday, Banner, Student Employment
 
 - Workday - Hire Into Workday
-    - version: v1.9.5
+    - version: v1.2.0
     - author: romanovsky@vassar.edu. domcneil@vassar.edu
     - launch-type: schedule [daily 4:30am EST; 5:00am EST]
     - SME: Student Employment / Human Resources
@@ -10,7 +10,7 @@ Pipelines related to Workday, Banner, Student Employment
     job hiring.  Post-Hire, key student attributes are updated in Workday.  These include, DOB, SSN, Banner IDs, contact info, etc.
 
 - Workday.Payroll-PowerFAIDs
-    - version: v1.0.0
+    - version: v1.0.1
     - author: domcneil@vassar.edu
     - launch-type: schedule [weekly, Friday 5:00pm EST]
     - SME: Student Employment / Payroll
