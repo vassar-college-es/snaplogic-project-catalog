@@ -63,3 +63,17 @@ Pipelines related to Workday HCM/Payroll
     - launch-type: scheduled
     - SME: HCM/Beneftis Office
     - desc: This integration will run a TeleDoc RaaS developed by Nick S in HR to transform for HT/TeleDoc census file over sFTP
+
+- WD - New Hire to Banner and IAMSOA
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: triggered
+    - SME: HCM
+    - desc: Consuming Workday NewHire data and writing to Banner and MS SQL SOA entity table
+
+- WD - Worker Change to Banner and IAMSOA
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: scheduled
+    - SME: HCM
+    - desc: Consuming Workday worker change data and writing to Banner and MS SQL SOA entity table
