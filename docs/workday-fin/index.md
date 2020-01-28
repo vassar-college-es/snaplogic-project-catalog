@@ -70,3 +70,10 @@ Pipelines related to Workday Finance
     - launch-type: scheduled, weekly
     - SME: Accounts Payable
     - desc: This integration updates contact information for student suppliers in Workday
+
+- WD - ThankQ to Workday Finance
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: scheduled; daily
+    - SME: Vassar Accounting 
+    - desc: Pulls staged gift transactions from ThankQ and creates AHBT and JEs as needed based on payment type
