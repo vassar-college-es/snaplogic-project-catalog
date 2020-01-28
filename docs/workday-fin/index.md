@@ -75,5 +75,5 @@ Pipelines related to Workday Finance
     - v1.0.0
     - author: romanovsky@vassar.edu
     - launch-type: scheduled; daily
-    - SME: Vassar Accounting 
+    - SME: Vassar Accounting; OAAD Gift Entry 
     - desc: Pulls staged gift transactions from ThankQ and creates AHBT and JEs as needed based on payment type
