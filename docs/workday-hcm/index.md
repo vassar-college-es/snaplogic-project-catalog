@@ -72,7 +72,7 @@ Pipelines related to Workday HCM/Payroll
     - desc: Consuming Workday NewHire data and writing to Banner and MS SQL SOA entity table
 
 - WD - Worker Change to Banner and IAMSOA
-    - v1.0.0
+    - v1.0.1
     - author: romanovsky@vassar.edu
     - launch-type: scheduled
     - SME: HCM
