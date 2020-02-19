@@ -124,3 +124,9 @@
     - output=pdf file written DropBox (snapdorpboxservice)
     - scheduled.  Running Tues and Thurs 1pm
     - version: v1.0.0
+
+- Banner.Student-RI.Student
+    - Student changes from Banner for SOA into RI
+    - update 'student entity' table in MSSQL
+    - scheduled daily
+    - version v1.0.0
