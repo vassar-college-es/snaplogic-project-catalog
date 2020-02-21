@@ -16,7 +16,7 @@ Pipelines related to Workday Finance
     - SME: Accounting Services
 
 - WD - Banner.Grant to Workday.AHBT.Grant
-    - v.1.1.0
+    - v.1.2.0
 
 - WD - Banner.Grant to Workday.GrantCustomerInvoice
     - v.1.0.0
