@@ -145,3 +145,10 @@
     - output= CSV,  winfile02 write
     - task= (pipeline) scheduled daily, 11:30PM
     - v1.1.0
+
+- Banner.Workday-SolarWinds
+    - Oracle Select
+    - REST GET of Workday Custom Report: Active_Employee_Worker_Location_for_Integration
+    - output= CSV,  \\BBuniversal03\solarwinds\
+    - task= (pipeline) scheduled Sunday - Friday, every hour
+    - v1.0.0
