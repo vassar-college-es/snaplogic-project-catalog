@@ -77,3 +77,10 @@ Pipelines related to Workday HCM/Payroll
     - launch-type: scheduled
     - SME: HCM
     - desc: Consuming Workday worker change data and writing to Banner and MS SQL SOA entity table
+
+- WD - Worker Appointments to IAMSOA
+    - v1.0.0
+    - author: romanovsky@vassar.edu
+    - launch-type: scheduled
+    - SME: HCM
+    - desc: Update the Emeriti flag in IAM Staff when changed in Workday
