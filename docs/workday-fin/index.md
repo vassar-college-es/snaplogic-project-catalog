@@ -31,7 +31,7 @@ Pipelines related to Workday Finance
     - v.1.0.0
 
 - WD - TMA.charges-Workday.SubmitAcctJournal
-    - v.1.1.5
+    - v.1.1.6
     - author: mcgowan@vassar.edu
     - launch-type: manual
     - SME: Facilities Ops
