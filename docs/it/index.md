@@ -121,7 +121,7 @@
     - Rest GET of Workday Custom Report: Worker_Education_for_Communications
     - output= csv to drop/cmsbios
     - task= (pipeline) scheduled Fridays, 6:00 PM
-    - v1.0.1
+    - v1.0.2
 	
 - Workday|Banner-Directory
     - Rest GET of Workday Custom Report: Directory Data-Employees
