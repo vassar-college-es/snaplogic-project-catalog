@@ -145,6 +145,18 @@
     - task= (pipeline) scheduled daily, 11:30PM
     - v1.1.0
 
+- Workday.CommitteeMembership-Communications
+    - Rest GET of Workday Custom Report: All_Committees_Membership_List_for_Integration
+    - output= txt to drop/committees
+    - task= (pipeline) scheduled Weekdays, 3:00 AM
+    - v1.0.0
+
+- Workday.Committees-Communications
+    - Rest GET of Workday Custom Report: All_Committee_Names_and_Definitions_for_Integration
+    - output= txt to drop/committees
+    - task= (pipeline) scheduled Weekdays, 3:00 AM
+    - v1.0.0
+    
 - Banner.Workday-SolarWinds
     - Oracle Select
     - REST GET of Workday Custom Report: Active_Employee_Worker_Location_for_Integration
