@@ -163,3 +163,10 @@
     - output= CSV,  \\BBuniversal03\solarwinds\
     - task= (pipeline) scheduled Sunday - Friday, every hour
     - v1.0.0
+
+- Banner.Workday-SendSuite
+    - Oracle Select
+    - REST GET of Workday Custom Report: Active_Employee_Worker_Location_for_Integration
+    - output= Text Tab Delimited files (2), smb://SENDSUITE02.vassar.edu/Import/
+    - task= (pipeline) Daily 6am
+    - v1.0.0
