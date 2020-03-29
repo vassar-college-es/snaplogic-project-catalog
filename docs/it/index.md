@@ -51,13 +51,13 @@
         - Semester end clean up child pipeline
         - v1.0.0
 
-- Banner-DeliveredReports.ChosenNameReport current version v1.3.0
+- Banner-DeliveredReports.ChosenNameReport current version v1.3.1
     - Oracle Select
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6:30AM
     - v1.3.0
 
-- Banner-DeliveredReports.StatusChangeReport current version v1.2.0
+- Banner-DeliveredReports.StatusChangeReport current version v1.2.1
     - Oracle Select
     - output= email, MS Excel spreadsheet
     - task= (pipeline) scheduled daily, 6PM
