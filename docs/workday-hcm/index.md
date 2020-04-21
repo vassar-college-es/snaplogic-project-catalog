@@ -2,7 +2,7 @@
 Pipelines related to Workday HCM/Payroll
 
 - Workday - Hire Non-Student Into Banner
-    - version: v1.9.0
+    - version: v1.9.1
     - author: romanovsky@vassar.edu
     - launch-type: trigger
     - SME: Human Resources
@@ -65,7 +65,7 @@ Pipelines related to Workday HCM/Payroll
     - desc: This integration will run a TeleDoc RaaS developed by Nick S in HR to transform for HT/TeleDoc census file over sFTP
 
 - WD - New Hire to Banner and IAMSOA
-    - v1.0.0
+    - v1.0.1
     - author: romanovsky@vassar.edu
     - launch-type: triggered
     - SME: HCM
