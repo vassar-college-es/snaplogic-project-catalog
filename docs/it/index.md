@@ -162,7 +162,7 @@
     - REST GET of Workday Custom Report: Active_Employee_Worker_Location_for_Integration
     - output= CSV,  \\BBuniversal03\solarwinds\
     - task= (pipeline) scheduled Sunday - Friday, every hour
-    - v1.2.0
+    - v1.3.0
 
 - Banner.Workday-SendSuite
     - Oracle Select
