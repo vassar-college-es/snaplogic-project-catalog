@@ -170,3 +170,12 @@
     - output= Text Tab Delimited files (2), smb://SENDSUITE02.vassar.edu/Import/
     - task= (pipeline) Daily 6am
     - v1.0.0
+	
+- CallManager.Extension-Workday.Worker
+    - Oracle Insert 
+    - Oracle procedure DAIES.IDENTIFY_PHONE_CHANGES
+	- MS SQL join with IDAUTO data
+    - AXL API GET of extension data from CallManager
+    - output= Workday Web Service Contact Change
+    - task= (pipeline) scheduled Weekdays, 3:00 AM
+    - v1.0.0
