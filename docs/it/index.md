@@ -179,3 +179,11 @@
     - output= Workday Web Service Contact Change
     - task= (pipeline) scheduled Weekdays, 3:00 AM
     - v1.0.0
+
+
+- Workday.Banner-BannerApps-BuildingDisList
+    - Oracle Select
+    - REST GET to Workday Report 'Active_Employee_Worker_Location_for_Integration'
+    - output= .dis files to MailMan
+    - task= (pipeline) scheduled dailiy 6:00AM
+    - v1.0.0
