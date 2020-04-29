@@ -7,11 +7,11 @@
     - vendor support=
     - v1.1.0
 
-- Banner-PerceptiveContent current version v1.1.0
-    - Oracle Select, Update on Banner, Perceptive Content DB
-    - output= no output, change to database
+- IDAUTO-PerceptiveContent
+    - SQL Server Select, Update to INOW Perceptive Content DB
+    - output= email to admin, change to database
     - task= (pipeline) scheduled Weekly, Friday at 12PM
-    - v1.1.0
+    - v1.0.0
 
 - Google-AD
     - Captures Google Worksheet data (802.1x keyboardless devices) and uses AD Create Entry snap to create account
