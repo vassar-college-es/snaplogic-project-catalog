@@ -178,8 +178,7 @@
     - AXL API GET of extension data from CallManager
     - output= Workday Web Service Contact Change
     - task= (pipeline) scheduled Weekdays, 3:00 AM
-    - v1.0.0
-
+    - v1.0.1
 
 - Workday.Banner-BannerApps-BuildingDisList
     - Oracle Select
