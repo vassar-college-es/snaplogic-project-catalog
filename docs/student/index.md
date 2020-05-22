@@ -95,7 +95,7 @@
     - output=csv file written to AIM server for import
     - task= daily 2am
     - vendor support= sales@accessiblelearning.com
-    - version: v1.0.1
+    - version: v1.0.2
 
 - Banner-AIM-StudentCourses
     - SFTP File Reader to identify active students who require accomodations
@@ -103,7 +103,7 @@
     - output=csv file written to AIM server for import
     - task= daily 2am
     - vendor support= sales@accessiblelearning.com
-    - version: v1.0.1
+    - version: v1.0.2
 
 - Banner-AIM-StudentInfo
     - SFTP File Reader to identify active students who require accomodations
