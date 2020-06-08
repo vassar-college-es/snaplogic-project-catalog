@@ -185,4 +185,4 @@
     - REST GET to Workday Report 'Active_Employee_Worker_Location_for_Integration'
     - output= .dis files to MailMan
     - task= (pipeline) scheduled dailiy 6:00AM
-    - v1.0.0
+    - v1.1.0
