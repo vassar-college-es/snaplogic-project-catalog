@@ -186,3 +186,9 @@
     - output= .dis files to MailMan
     - task= (pipeline) scheduled dailiy 6:00AM
     - v1.1.0
+	
+- Banner.Moodle-CreateCoures
+    - Oracle procedure upd_ap_exam_codes
+    - output= .xlsx to DeanOfStudies Shared Drive
+    - task= (pipeline) scheduled Every day, 9:00PM
+    - v1.0.0
