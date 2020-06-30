@@ -192,3 +192,10 @@
     - output= .xlsx to DeanOfStudies Shared Drive
     - task= (pipeline) scheduled Every day, 9:00PM
     - v1.0.0
+
+-Banner.Workday-Banner.Namesdata
+    - Oracle Select
+    - REST GET to Workday Report 'Active_Employee_Worker_Location_for_Integration'
+    - output= Oracle INSERT brioserver.namesdata
+    - task= scheduled faily 6am
+    - v1.0.0
