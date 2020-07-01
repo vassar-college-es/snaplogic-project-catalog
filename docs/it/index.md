@@ -191,7 +191,7 @@
     - Oracle procedure upd_ap_exam_codes
     - output= .xlsx to DeanOfStudies Shared Drive
     - task= (pipeline) scheduled Every day, 9:00PM
-    - v1.0.0
+    - v1.0.1
 
 -Banner.Workday-Banner.Namesdata
     - Oracle Select
