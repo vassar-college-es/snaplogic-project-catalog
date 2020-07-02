@@ -26,4 +26,4 @@ pipelines associated with Alumni data and applications
 - thankQ-Slate.Volunteers
     - output= Drop .csv file sftp://ft.technolutions.net:22/incoming/BannerVolunteers.csv
     - task = scheduled Daily 11pm
-    - v1.0.0
+    - v1.1.0
