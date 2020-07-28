@@ -193,9 +193,16 @@
     - task= (pipeline) scheduled Every day, 9:00PM
     - v1.0.2
 
--Banner.Workday-Banner.Namesdata
+- Banner.Workday-Banner.Namesdata
     - Oracle Select
     - REST GET to Workday Report 'Active_Employee_Worker_Location_for_Integration'
     - output= Oracle INSERT brioserver.namesdata
-    - task= scheduled faily 6am
+    - task= scheduled daily 6am
+    - v1.0.0
+
+- Banner.Workday-PostofficeData
+    - Oracle Select
+    - REST GET to Workday Report 'Active_and_Inactive_Employee_Worker_Location_for_Integration'
+    - Output= Oracle INSERT bn.postoffice_rebuild & bn.postoffice
+    - task= scheduled daily 11:30pm
     - v1.0.0
