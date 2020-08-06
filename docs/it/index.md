@@ -206,3 +206,9 @@
     - Output= Oracle INSERT bn.postoffice_rebuild & bn.postoffice
     - task= scheduled daily 11:30pm
     - v1.0.0
+
+- Workday-GoogleDrive.HealthCheck
+    - REST GET to Workday Reports 'All Worker Time Off - Daily Health Questionnaire' & 'Submitted Unsubmitted Reported Time Blocks for a Worker with In Out Time - Revised'
+    - Output= Write to Google Spreadsheet - Snaplogic-HealthCheck
+    - task= scheduled daily 12:30am
+    - v1.0.0
