@@ -205,7 +205,7 @@
     - REST GET to Workday Report 'Active_and_Inactive_Employee_Worker_Location_for_Integration'
     - Output= Oracle INSERT bn.postoffice_rebuild & bn.postoffice
     - task= scheduled daily 11:30pm
-    - v1.0.0
+    - v1.2.0
 
 - Workday-GoogleDrive.HealthCheck
     - REST GET to Workday Reports 'All Worker Time Off - Daily Health Questionnaire' & 'Submitted Unsubmitted Reported Time Blocks for a Worker with In Out Time - Revised'
