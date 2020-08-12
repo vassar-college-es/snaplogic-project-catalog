@@ -21,7 +21,7 @@ pipelines associated with Alumni data and applications
 - Slate-thankQ.Volunteers
     - output= INSERT into SQL Server table dbo.relationship, dbo.relationshiparchive / DELETE SQL Server table dbo.relationship
     - task= scheduled Daily 10:30pm
-    - v1.1.0
+    - v1.1.1
 
 - thankQ-Slate.Volunteers
     - output= Drop .csv file sftp://ft.technolutions.net:22/incoming/BannerVolunteers.csv
