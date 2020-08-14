@@ -28,7 +28,7 @@ Pipelines related to Workday Finance
     - v.1.0.0
 
 - WD - JPM.stuPCard-Workday.SubmitAcctJournal
-    - v.1.0.0
+    - v.1.3.1
 
 - WD - TMA.charges-Workday.SubmitAcctJournal
     - v.1.1.6
