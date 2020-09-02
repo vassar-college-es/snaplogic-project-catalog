@@ -207,8 +207,14 @@
     - task= scheduled daily 11:30pm
     - v1.2.0
 
-- Workday-GoogleDrive.HealthCheck
+- Workday-GoogleDrive.HealthCheck - DEPRECATED and replace by Workday-MySQL.HealthCheck
     - REST GET to Workday Reports 'All Worker Time Off - Daily Health Questionnaire' & 'Submitted Unsubmitted Reported Time Blocks for a Worker with In Out Time - Revised'
     - Output= Write to Google Spreadsheet - Snaplogic-HealthCheck
+    - task= scheduled daily 12:30am
+    - v1.0.0
+
+- Workday-MySQL.HealthCheck 
+    - REST GET to Workday Reports 'All Worker Time Off - Daily Health Questionnaire' & 'Submitted Unsubmitted Reported Time Blocks for a Worker with In Out Time - Revised'
+    - Output= Write to MySQL tables
     - task= scheduled daily 12:30am
     - v1.0.0
