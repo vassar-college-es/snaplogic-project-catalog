@@ -224,3 +224,15 @@
     - Output= Excel file emailed 
     - task= scheduled daily 6:30am
     - v1.0.0
+
+- Workday.Digital_Signage
+    - REST Get to Workday Report 'Active_Employee_Worker_Location_for_Integration'
+    - Output= Excel file to 'signcms01/dsfiles/content/directories/'
+    - task= scheduled daily 6am
+    - V1.0.1
+
+- Banner.Student-DeliveredReport-General_Student_Exception_Reports
+    - Oracle select
+    - Output= Excel files emailed
+    - Task= scheduled daily 6am
+    - V1.0.0
