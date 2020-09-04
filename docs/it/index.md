@@ -218,3 +218,9 @@
     - Output= Write to MySQL tables
     - task= scheduled daily 12:30am
     - v1.0.0
+
+- Banner-DeliveredReports.RoomChange 
+    - Oracle select
+    - Output= Excel file emailed 
+    - task= scheduled daily 6:30am
+    - v1.0.0
