@@ -235,4 +235,4 @@
     - Oracle select
     - Output= Excel files emailed
     - Task= scheduled daily 6am
-    - V1.0.0
+    - V1.1.0
