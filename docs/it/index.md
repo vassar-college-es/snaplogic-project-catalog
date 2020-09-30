@@ -236,3 +236,9 @@
     - Output= Excel files emailed
     - Task= scheduled daily 6am
     - V1.1.0
+
+- Banner-DeliveredReports.MealChange 
+    - Oracle select
+    - Output= Excel file emailed 
+    - task= scheduled daily 6:30am
+    - v1.0.0
