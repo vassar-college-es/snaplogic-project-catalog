@@ -217,7 +217,7 @@
     - REST GET to Workday Reports 'All Worker Time Off - Daily Health Questionnaire' & 'Submitted Unsubmitted Reported Time Blocks for a Worker with In Out Time - Revised'
     - Output= Write to MySQL tables
     - task= scheduled daily 12:30am
-    - v1.0.0
+    - v1.0.1
 
 - Banner-DeliveredReports.RoomChange 
     - Oracle select
