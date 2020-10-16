@@ -242,3 +242,9 @@
     - Output= Excel file emailed 
     - task= scheduled daily 6:30am
     - v1.0.0
+
+- Banner-DeliveredReports.MealPlanCompare 
+    - Oracle select
+    - Output= Excel file emailed 
+    - task= scheduled weekly Fridays @ 6:00am
+    - v1.0.0
