@@ -112,10 +112,10 @@
     - v2.0.0
 	
 - Workday.Emeriti-Communications
-    - Rest GET of Workday Custom Report: Emeriti_for_Integration_with_Communications
+    - Rest GET of Workday Custom Report: Retired_Emeriti_for_Integration_for_Communications
     - output= csv to drop/cmsbios
     - task= (pipeline) scheduled Fridays, 6:00 PM
-    - v1.0.0
+    - v1.1.0
 	
 - Workday.WorkerEducation-Communications
     - Rest GET of Workday Custom Report: Worker_Education_for_Communications
@@ -149,7 +149,7 @@
     - Rest GET of Workday Custom Report: All_Committees_Membership_List_for_Integration
     - output= txt to drop/committees
     - task= (pipeline) scheduled Weekdays, 3:00 AM
-    - v1.0.0
+    - v1.0.1
 
 - Workday.Committees-Communications
     - Rest GET of Workday Custom Report: All_Committee_Names_and_Definitions_for_Integration
