@@ -67,7 +67,7 @@
     - Oracle SP= BN.ACALOG_BANNER_COURSE_IMPORT
     - task= 1st, 8th, 15th, 22nd and 29th at 8am
     - vendor support= support@acalog.com
-    - version: v1.1.1
+    - version: v1.1.1 and v1.2.0
 
 - Banner.TerraDotta
     - Oracle Execute to select student/employee data from Banner
