@@ -72,8 +72,8 @@ Pipelines related to Workday Finance
     - desc: This integration updates contact information for student suppliers in Workday
 
 - WD - ThankQ to Workday Finance
-    - v1.0.0
-    - author: romanovsky@vassar.edu
+    - v2.0.0
+    - author: romanovsky@vassar.edu, khahn@vassar.edu
     - launch-type: scheduled; daily
     - SME: Vassar Accounting; OAAD Gift Entry 
     - desc: Pulls staged gift transactions from ThankQ and creates AHBT and JEs as needed based on payment type
