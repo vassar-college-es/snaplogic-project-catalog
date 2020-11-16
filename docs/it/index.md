@@ -248,3 +248,8 @@
     - Output= Excel file emailed 
     - task= scheduled weekly Fridays @ 6:00am
     - v1.0.0
+
+- Banner-PrereQ.SCAPREQ-SSAPREQ
+    - Oracle select, delete, insert
+    - task= scheduled daily @ 4:00am
+    - v1.0.0
